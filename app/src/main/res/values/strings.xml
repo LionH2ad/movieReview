@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+
+    <!-- Spinner 정렬 옵션 배열 -->
+    <string-array name="sort_options">
+        <item>제목순</item>
+        <item>작성자순</item>
+    </string-array>
+</resources>
